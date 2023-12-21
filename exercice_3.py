@@ -25,7 +25,7 @@ def plus_grands_num(a, b):
     nombre_entiers_a_ex = sorted(list_size, reverse=True)
     entiers_extraits = nombre_entiers_a_ex[:10]
 
-    print(list_size ),ad
+    print(list_size)
     print(entiers_extraits)
     return
 
