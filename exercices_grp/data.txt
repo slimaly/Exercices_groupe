@@ -1,0 +1,4 @@
+Alycia,24,F,1.67
+Djovan,20,M,1.41
+Serge,50,M,1.71
+
